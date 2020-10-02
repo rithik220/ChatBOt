@@ -1,1 +1,1 @@
-# ChatBOt
+# ChatBOt this a Contextual Chatbot using Tensorflow and more specifically how to build a response processor so that you can converse with Chatbot in real time by asking question. You will get response based on questions you will ask so you will see chatbot in action here. A machine learning project.
